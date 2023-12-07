@@ -1,1 +1,1 @@
-# visibility
+# @appstack-io/visibility
