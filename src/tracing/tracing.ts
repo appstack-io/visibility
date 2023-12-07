@@ -18,7 +18,7 @@ import {
   W3CTraceContextPropagator,
 } from '@opentelemetry/core';
 import { B3InjectEncoding, B3Propagator } from '@opentelemetry/propagator-b3';
-import '../libs/config';
+import '@appstack-io/config';
 import { BullMQInstrumentation } from '@jenniferplusplus/opentelemetry-instrumentation-bullmq';
 import { SocketIoInstrumentation } from 'opentelemetry-instrumentation-socket.io';
 
